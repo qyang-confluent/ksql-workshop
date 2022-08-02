@@ -31,7 +31,7 @@ Will be updated
 | Confluent Introduction and <br/> Hands-on Workshop Demo |  11:15 - 12:30  | Ravi Appalla - Confluent |
 | Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
 | Workshop Environment setup |  1:30 - 1:45  | TJX team |
-| Hands-on Workshop |  2:00 - 3:00  | TJX team to try hands-on labs, will be supported by Confluent Team |
+| Hands-on Workshop |  2:00 - 3:00  | Hands-on labs - TJX team |
 | Day 1 wrap-up and next steps |  3:00 - 3:30  |  Confluent Team  |
 
 ## Workshop Agenda - Day 2:
