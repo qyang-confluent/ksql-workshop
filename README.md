@@ -38,9 +38,10 @@ Will be updated
 
 | Topic | Time | Speaker |
 | --- | --- | --- |
-| Project Onboarding |  10:00 - 11:00  |  TJX Team  |
+| Confluent Cloud Capacity Planning (Cluster Topology, Throughput, Managed Connectors/ksql) |  10:00 - 11:00  |  TJX/Confluent |
 | Break |  11:00 - 11:15  |  |
-| Value Assessment |  11:15 - 12:00  |  Dan Elliman  |
+| Networking and Infosec requirements|  11:15 - 12:00  |  TJX/Confluent  |
+| Workshop Summary and Value Assessment |  12:00 - 12:30  |  TJX/Confluent  |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
