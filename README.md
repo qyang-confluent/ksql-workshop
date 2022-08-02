@@ -8,7 +8,7 @@
 
 # <div align="center">TJX Demo and Workshop repository</div>
 
-This repository contains workshop content for Radian to be held on <b>10/12/2021</b> in Denver. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for TJX to be held on <b>08/30 and 08/31 (tentative)</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
