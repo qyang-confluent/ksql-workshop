@@ -6,7 +6,7 @@
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
-# <div align="center">Radian Demo and Workshop repository</div>
+# <div align="center">TJX Demo and Workshop repository</div>
 
 This repository contains workshop content for Radian to be held on <b>10/12/2021</b> in Denver. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
@@ -18,22 +18,29 @@ We welcome you to join Confluent team in a workshop to get started with data in 
 
 This workshop perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. 
 
-## Address: 
-Tabor Center, One Tabor Center, 1200 17th St, Denver, CO 80202, USA - Room 10G, 10th Floor
+## Zoom Link: 
+Will be updated
 
-## Workshop Agenda:
+## Workshop Agenda - Day 1:
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
-| Workshop Kickoff |  10:00 - 10:15  | Ryan Striano - Confluent |
-| Review Radian Use-Cases |  10:15 - 11:00  | <b>TBD by Radian</b> |
-| e2e Accelerator |  11:00 - 11:30  | Paul Earsy/Chris Urban - Confluent |
-| Break |  11:30 - 11:45  |  |
-| Hands-on Workshop Demo |  11:45 - 1:00  | Ravi Appalla - Confluent |
-| Lunch |  1:00 - 2:00  | Will be coordinated by Confluent Team |
-| Hands-on Workshop |  2:00 - 3:45  | Radian team to try hands-on labs, will be supported by Confluent Team |
-| Break |  3:45 - 4:00  |  |
-| POC Evaluation Roadmap |  4:00 - 5:00  | <b>TBD by Radian</b>  |
+| Workshop Kickoff |  10:00 - 10:15  | Dan Elliman - Confluent |
+| Review TJX platform setup and Use Cases |  10:15 - 11:00  | TJX team |
+| Break |  11:00 - 11:15  |  |
+| Confluent Introduction and <br/> Hands-on Workshop Demo |  11:15 - 12:30  | Ravi Appalla - Confluent |
+| Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
+| Workshop Environment setup |  1:30 - 1:45  | TJX team |
+| Hands-on Workshop |  2:00 - 3:00  | TJX team to try hands-on labs, will be supported by Confluent Team |
+| Day 1 wrap-up and next steps |  3:00 - 3:30  |  Confluent Team  |
+
+## Workshop Agenda - Day 2:
+
+| Topic | Time | Speaker |
+| --- | --- | --- |
+| Project Onboarding |  10:00 - 11:00  |  TJX Team  |
+| Break |  11:00 - 11:15  |  |
+| Value Assessment |  11:15 - 12:00  |  Dan Elliman  |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
