@@ -3,42 +3,16 @@
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
-# <div align="center">TJX Demo and Workshop repository</div>
+# <div align="center">KSQL Demo and Workshop repository</div>
 
-This repository contains workshop content for TJX to be held on <b>08/30 and 08/31 (tentative)</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
-## Introduction
-
-Today’s modern customers value an end-to-end real-time experience. Businesses that are able to deliver real-time, personalized experiences need to be connected and fueled at all times by a constant supply of real-time event streams and continuous real-time processing. They need access to data in motion.
-
-We welcome you to join Confluent team in a workshop to get started with data in motion. Each session includes a virtual guided workshop on how you can use Confluent Cloud to explore event-driven architectures and how these measured and well-informed architectural decisions result in successful outcomes. 
+## Introduction 
 
 This workshop perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. 
 
 ## Zoom Link: 
 Will be updated
 
-## Workshop Agenda - Day 1:
-
-| Topic |  Time  | Speaker |
-| --- |  ---  | --- |
-| Workshop Kickoff |  10:00 - 10:15  | Dan Elliman - Confluent |
-| Review TJX platform setup and Use Cases |  10:15 - 11:00  | TJX team |
-| Break |  11:00 - 11:15  |  |
-| Confluent Introduction and <br/> Hands-on Workshop Demo |  11:15 - 12:30  | Ravi Appalla - Confluent |
-| Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
-| Workshop Environment setup |  1:30 - 1:45  | TJX team |
-| Hands-on Workshop |  2:00 - 3:00  | Hands-on labs - TJX team |
-| Day 1 wrap-up and next steps |  3:00 - 3:30  |  Confluent Team  |
-
-## Workshop Agenda - Day 2:
-
-| Topic | Time | Speaker |
-| --- | --- | --- |
-| Confluent Cloud Capacity Planning (Cluster Topology, Throughput, Managed Connectors/ksql) |  10:00 - 11:00  |  TJX/Confluent |
-| Break |  11:00 - 11:15  |  |
-| Networking and Infosec requirements|  11:15 - 12:00  |  TJX/Confluent  |
-| Workshop Summary and Value Assessment |  12:00 - 12:30  |  TJX/Confluent  |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
@@ -778,4 +752,3 @@ Here are some links to check out if you are interested in further testing:
 
 ***
 
-# tjx-workshop
