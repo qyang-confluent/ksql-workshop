@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="images/adgp-logo-tjx-2021.png" width=50% height=50%>
-</div>
 
 <div align="center">
     <img src="images/confluent.png" width=50% height=50%>
