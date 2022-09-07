@@ -6,13 +6,6 @@
 # <div align="center">KSQL Demo and Workshop repository</div>
 
 
-## Introduction 
-
-This workshop perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. 
-
-## Zoom Link: 
-Will be updated
-
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
